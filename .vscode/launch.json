@@ -10,8 +10,7 @@
             "name": "Launch Chrome against localhost",
             "url": "http://localhost:8080", // lojzovo server IP
             "webRoot": "${workspaceFolder}",
-            "timeout": 60,
-            
+            "timeout": 60
         }
     ]
 }
